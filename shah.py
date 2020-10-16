@@ -90,9 +90,7 @@ jalan("\033[1;94m•◈•   \__ \ /(__)\  ) _ (  _)(_  )(__ ")
 jalan("\033[1;96m•◈•   (___/(__)(__)(_) (_)(____)(____) ")
 
 
-jalan("   \033[1;93m Welcome to Fast Cracking Tool")
-
-jalan("\033[1;97m•◈•──────────•◈•\033[1;96mSAHIL \033[1;94mSHAH \033[1;97mGILLANI \033[1;96m•◈•──────────•◈•")
+jalan("\033[1;97m•◈•────────•◈•\033[1;96mSAHIL \033[1;94mSHAH \033[1;97mGILLANI \033[1;96m•◈•─────────•◈•")
 
 CorrectUsername = "SS"
 CorrectPassword = "GILLANI"
