@@ -48,7 +48,6 @@ def jalan(z):
         time.sleep(0.1)
 
 
-logo = ' \x1b[1;93m:▁ ▂ ▄ ▅ ▆ ▇ █ [ SAHIL] █ ▇ ▆ ▅ ▄ ▂ ▁'
 print '\x1b[1;91m<<<========LONG LIVE PAKISTAN===========>>>'
 print '\x1b[1;91m======================================='
 print '\x1b[1;96mAuthor  \x1b[1;93m: \x1b[1;92mSS GILLANI'
